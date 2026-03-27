@@ -12,9 +12,9 @@
 - Tools: Cisco Packet Tracer, GNS3, VS Code
 
 ## 📂 Projects
-- 🔹 Linux Infrastructure Monitoring System
-- 🔹 Cisco Packet Tracer Enterprise Network
-- 🔹 Linux User Management Script
+- 🔹 Linux Infrastructure Monitoring System[https://github.com/purabsachdeva-git/infra-monitoring-system]
+- 🔹 Cisco Packet Tracer Enterprise Network[https://github.com/purabsachdeva-git/cisco-packet-tracer-project]
+- 🔹 Linux User Management Script[https://github.com/purabsachdeva-git/user_management-script-]
 
 ## 📫 Contact Me
 - 📧 Email: purabsachdeva7@gmail.com
